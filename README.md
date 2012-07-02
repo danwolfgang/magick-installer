@@ -1,3 +1,5 @@
+This version of Magick Installer has been updated to include Perl support when ImageMagick is compiled, and to use a newer version of ImageMagick.
+
 # Magick Installer!
 
 Magick Installer exists for two reasons:
